@@ -10,12 +10,12 @@
         <author>IReMus</author>
       </titleStmt>
       <editionStmt>
-        <edition>Electronic edition according to TEI P.5</edition>
+        <edition>Electronic edition according to TEI P.6</edition>
       </editionStmt>
       <publicationStmt>
         <publisher><name type="org">Institut de Recherche en Musicologie UMR 8223, Thesaurus
             Musicarum
-          Germanicarum</name><address><street>2, rue de Louvois</street><name type="city">Paris</name><postCode>F-75002</postCode><name type="country">France</name></address></publisher>
+          Germanicarum</name><address><street>45, rue de Richelieu</street><name type="city">Paris</name><postCode>F-75002</postCode><name type="country">France</name></address></publisher>
         <date when="2015-10-02"/>
       </publicationStmt>
       <sourceDesc>
@@ -75,11 +75,10 @@
     <front>
       <titlePage>
         <titlePart>TMG Kodierungsleitlinien (Stand 02.11.2015)</titlePart>
-        <docAuthor>Guillotel-Nothmann, Christophe</docAuthor>
+        <docAuthor>IReMus</docAuthor>
         <docImprint><docDate><placeName>Paris</placeName>, <date>02. November
           2015</date></docDate></docImprint>
-        <docEdition>Institut de Recherche en Musicologie UMR 8223, Thesaurus Musicarum
-          Germanicarum</docEdition>
+        <docEdition>Institut de Recherche en Musicologie UMR 8223</docEdition>
       </titlePage>
     </front>
     <body>
@@ -230,7 +229,7 @@ Hebreos<pc type="t1">.</pc></egXML>
             </div4>
           </div3>
           <div3 xml:id="div_1_1_3">
-            <head><title>1.3. Wortebene</title></head>
+            <head><title>Changement de titre</title></head>
             <ab>Kodierungen der Wortebene betreffen typographische Besonderheiten und Sonderzeichen
               (Abschnitt <ref target="#div_1_1_3_1" type="int">1.3.1.</ref>), Abkürzungen (Abschnitt
                 <ref target="#div_1_1_3_2" type="int">1.3.2.</ref>).</ab>
