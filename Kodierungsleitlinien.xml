@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>TMG Kodierungsleitlinien (Stand 02.11.2015)</title>
-        <author>Guillotel-Nothmann, Christophe</author>
+        <author>IReMus</author>
       </titleStmt>
       <editionStmt>
         <edition>Electronic edition according to TEI P.6</edition>
@@ -75,11 +75,10 @@
     <front>
       <titlePage>
         <titlePart>TMG Kodierungsleitlinien (Stand 02.11.2015)</titlePart>
-        <docAuthor>Guillotel-Nothmann, Christophe</docAuthor>
+        <docAuthor>IReMus</docAuthor>
         <docImprint><docDate><placeName>Paris</placeName>, <date>02. November
           2015</date></docDate></docImprint>
-        <docEdition>Institut de Recherche en Musicologie UMR 8223, Thesaurus Musicarum
-          Germanicarum</docEdition>
+        <docEdition>Institut de Recherche en Musicologie UMR 8223</docEdition>
       </titlePage>
     </front>
     <body>
